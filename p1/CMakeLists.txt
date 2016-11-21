@@ -12,4 +12,4 @@ include_directories("/usr/include/boost")
 set(SOURCE_FILES
         test_interprocess.cpp)
 
-add_executable(cppcodetest ${SOURCE_FILES})
+add_executable(p1 ${SOURCE_FILES})
